@@ -2,3 +2,4 @@
 ant.settings
 .settings
 /target/
+/jasmin.iml
